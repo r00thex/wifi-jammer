@@ -8,7 +8,7 @@ $ pip3 install scapy==2.4.3
 ```
 Clone the Repo and check manual: 
 ```
-$ git clone https://github.com/r00thex/wifijammer.git
+$ git clone https://github.com/r00thex/wifi-jammer.git
 $ cd wifijammer/
 $ python3 wifijammer.py --help
 ```
